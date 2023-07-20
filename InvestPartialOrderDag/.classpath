@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="invest"/>
+	<classpathentry kind="lib" path="/Users/kjohnson/Desktop/Invest/lib">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/kjohnson/Desktop/Invest/z3/com.microsoft.z3.jar"/>
+	<classpathentry kind="lib" path="/Users/kjohnson/prism-4.7-osx64/lib/prism.jar"/>
+	<classpathentry kind="lib" path="/Users/kjohnson/prism-4.7-osx64/lib/lpsolve55j.jar"/>
+	<classpathentry kind="lib" path="/Users/kjohnson/prism-4.7-osx64/lib/jas.jar"/>
+	<classpathentry kind="lib" path="/Users/kjohnson/prism-4.7-osx64/lib/log4j.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
